@@ -22,4 +22,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: engrzahidayub/devops-mini:latest
+        tags: engrzahidayub/devops-mini:test123
